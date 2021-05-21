@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpotTrains": {
+      "commandName": "Project",
+      "commandLineArgs": "--url \"http://www3.septa.org/api/TrainView\" --dbpath \"%userprofile%\\appdata\\local\\SpotTrains\\trains.db\" --period 30000"
+    }
+  }
+}

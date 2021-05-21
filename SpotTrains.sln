@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "SpotTrains", "SpotTrains\SpotTrains.fsproj", "{CBA2EBF2-6815-4AA2-B895-0764D24A3FE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA2EBF2-6815-4AA2-B895-0764D24A3FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA2EBF2-6815-4AA2-B895-0764D24A3FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA2EBF2-6815-4AA2-B895-0764D24A3FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA2EBF2-6815-4AA2-B895-0764D24A3FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E419A409-10C0-4D13-B444-8D7680CE0A29}
+	EndGlobalSection
+EndGlobal

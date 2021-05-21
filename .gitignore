@@ -3,3 +3,7 @@
 ################################################################################
 
 /SpotTrains/bin/Debug/netcoreapp3.1
+/SpotTrains/obj/Debug/netcoreapp3.1
+/SpotTrains/obj/Release/netcoreapp3.1
+/SpotTrains/obj
+/.vs/slnx.sqlite
