@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "SpotTrains", "SpotTrains\SpotTrains.fsproj", "{CBA2EBF2-6815-4AA2-B895-0764D24A3FE0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{50244DD1-36F1-4DFB-8995-57F6CAE2699E}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
