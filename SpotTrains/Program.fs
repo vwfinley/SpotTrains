@@ -6,7 +6,7 @@
         --dbpath "%userprofile%\appdata\local\SpotTrains\trains.db"
         --period 30000
 
-    Debugging Note #2: Use DB Browser for SQLite to view the database
+    Debugging Note #2: Use "DB Browser for SQLite" to view the database. https://sqlitebrowser.org/dl/
 *)
 
 open System
