@@ -10,5 +10,5 @@ Periodically fetches train status records and stores them in a local database
 ## To launch with help:
 	SpotTrains --help
 
-## To setup SpotTrains an automatic task, see here:
+## To setup SpotTrains as an automatic task, see here:
 https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10
